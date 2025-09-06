@@ -1,0 +1,3 @@
+docker rmi dradrian/ibportal --force 
+docker system prune -a -f --volumes
+
